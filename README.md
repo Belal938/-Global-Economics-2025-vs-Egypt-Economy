@@ -81,11 +81,18 @@ text
 
 👩‍💻 Author
 Team Names:
+
 Belal Said Hanafy
+
 Esraa Hassan Zaki Hassanein
+
 Alaa Ibrahim Elsaid Elhariry
+
 Shrouk Elnagdi Mohamed
+
 Group : Microsoft Power BI Engineer - GIZ3_DAT2_G3
+
 Project: DPEI Final Project — Global Economic Report 2025
+
 Tool: Microsoft Power BI & python
 
