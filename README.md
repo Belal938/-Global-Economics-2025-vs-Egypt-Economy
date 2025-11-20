@@ -22,9 +22,11 @@ Debt to GDP Ratio (%)
 Data was processed and visualized in Power BI to display global, regional, and country-level comparisons.
 
 💡 Dashboard Pages
+
 1️⃣ Overview — Global Economic 2025
 Displays the total global GDP, average growth, and average inflation, interest, jobless, and current account rates.
 Visual breakdown of GDP by region with an interactive world map for country-level insights.
+
 2️⃣ Top 10 Countries Dashboard
 Highlights the Top 10 countries by:
 GDP
@@ -35,11 +37,14 @@ Current Account
 Inflation Rate
 Unemployment Rate
 Total Debt
+
 3️⃣ Bottom 10 Countries Dashboard
 Presents the lowest 10 performing countries for the same economic metrics, giving a full global distribution view.
+
 4️⃣ Egypt Economic vs Africa 2025
 In-depth analysis of Egypt’s economy compared to other African countries.
 Includes GDP, growth rate, interest rate, debt ratio, inflation, and unemployment comparisons.
+
 5️⃣ Egyptian Economics Over Time
 Time-series visualizations showing Egypt’s economic evolution from 2000 to 2030:
 GDP & Population Trends
@@ -51,6 +56,7 @@ Overall Economic Indicators Over Time
 Microsoft Power BI – for building the interactive dashboard.
 Excel / CSV data sources – for importing and cleaning data.
 DAX (Data Analysis Expressions) – for calculations and measures within Power BI.
+
 🧩 Features
 ✅ Interactive navigation between dashboard pages (Home → Overview → Top 10 → Bottom 10 → Egypt).
 ✅ Region-based filtering for deeper analysis (Africa, Asia, Europe, Americas, Oceania).
@@ -60,12 +66,19 @@ DAX (Data Analysis Expressions) – for calculations and measures within Power B
 📁 Project Structure
 text
 / Global-Economic-2025/
+
 │
+
 ├── datasets/                # Source data files
+
 ├── screenshots/             # Dashboard preview images
+
 ├── Global_Economic_2025.pbix # Power BI project file
+
 ├── README.md                # Documentation file
+
 └── report.pdf               # Optional export of dashboard views
+
 👩‍💻 Author
 Team Names:
 Belal Said Hanafy
